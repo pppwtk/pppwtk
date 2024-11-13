@@ -3,7 +3,7 @@
        alt="WELCOME TO WUTTIKAN'S GITHUB" 
        style="border-radius: 15px; width: 100%; max-width: 800px;" />
 <br>
-<a href="https://github.com/wuttikan/wuttikan/tree/main" target="_blank">
+<a href="https://github.com/pppwtk" target="_blank">
 <img src="https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/pppwtk/" target="_blank">

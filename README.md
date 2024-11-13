@@ -1,3 +1,5 @@
+![WELCOME TO WUTTIKAN'S GITHUB](https://media.discordapp.net/attachments/950419021893865522/1306279189858615357/WELCOME.jpg?ex=673616cc&is=6734c54c&hm=57ef107b832d352d430450546d583570a02bddc4136a301719e83a4f4c2f520c&=&format=webp&width=1246&height=701)
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/wuttikan/wuttikan/tree/main" target="_blank">
